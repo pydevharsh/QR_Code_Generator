@@ -1,4 +1,4 @@
-# 🔳 QR Code Generator (GUI Based)
+# 𖣯 QR Code Generator (GUI Based)
 
 A beginner-friendly yet practical **GUI-based QR Code Generator** built using **Python & Tkinter**.
 
@@ -60,16 +60,6 @@ This makes it:
 
 <p align="center">
   <img src="assets/preview.png" width="370" height="370"/>
-</p>
-
----
-
----
-
-## 🎥 Demo
-
-<p align="center">
-  <img src="assets/preview.mp4" width="300"/>
 </p>
 
 ---
