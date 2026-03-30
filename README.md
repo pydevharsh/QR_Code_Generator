@@ -58,7 +58,19 @@ This makes it:
 
 ## 📸 GUI Preview
 
-![App Preview](assets/preview.png)
+<p align="center">
+  <img src="assets/preview.png" width="370" height="370"/>
+</p>
+
+---
+
+---
+
+## 🎥 Demo
+
+<p align="center">
+  <img src="assets/preview.mp4" width="300"/>
+</p>
 
 ---
 
